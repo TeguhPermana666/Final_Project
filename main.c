@@ -314,7 +314,7 @@ struct data *find(int dom){
 			break;
 			
 		default:
-			printf("\n\033[0;31m INPUTAN SALAH \033[0m");
+			printf("\n\033[0;31m inputan salah \033[0m");
 			break;
 	}
 	fflush(stdin);
