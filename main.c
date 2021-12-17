@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include<unistd.h>
+#include <unistd.h>
 struct data{
 	char nama[100];
 	char domain[50];
